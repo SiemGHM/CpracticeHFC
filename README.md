@@ -1,2 +1,2 @@
 # CpracticeHFC
-C practice code
+C practice code from the book "Head first C"
